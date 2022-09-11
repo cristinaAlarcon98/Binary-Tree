@@ -4,7 +4,7 @@ Here you can find the solution to the  proposed challenges divided in two folder
 
 To see the results of the second challenge you may follow the next steps:
 
-##Setup Node.js,Express and Mocha
+## Setup Node.js,Express and Mocha
 
 You can find the Node.js package here: https://nodejs.org/en/
 
@@ -21,14 +21,14 @@ Type the next command
 
 $ npm install --save-dev mocha
 
-##Run the application
+## Run the application
 1. Unzip the folder "SecondChallenge" 
 2. Access from the terminal to the folder with the following command cd <path>
 3. Type in the terminal the following command  $node secondChallengeApp.js 
 4. If everything has worked correctly you will see the next message in the Terminal: Listening on port 8080
 5. Open your browser and type localhost:8080/lcm?params=20&params=15&params=5 (You can change the value of params to see different results)
 
-##Test the application
+## Test the application
 1. Access from the terminal to the folder with the following command cd <path> (if you are not there)
 2. Type in the Terminal $npm run test
 
