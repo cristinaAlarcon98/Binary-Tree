@@ -1,5 +1,5 @@
 # Coding challenges for Kreatize
-Here you can find the proposed challenges divided in two folders with the names "FirstChallenge" and "SecondChallenge". 
+Here you can find the solution to the  proposed challenges divided in two folders with the names "FirstChallenge" and "SecondChallenge". 
 
 
 To see the results of the second challenge you may follow the next steps:
