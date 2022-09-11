@@ -168,14 +168,4 @@ def checkIfChildrenAreSmallerOrBigger(binaryTree):
 
 	
 
-	
-inputStringArray=['(1,3)','(0,2)','(2,3)','(5,7)','(7,3)','(8,7)']
-inputStringArray=['(1,2)','(5,6)','(3,2)']
-inputStringArray=['(1,2)','(5,6)','(3,2)','(2,5)']
-inputStringArray=['(3,8)','(1,3)','(6,3)','(4,6)','(7,6)','(10,8)']
-inputStringArray=['(3,8)','(1,3)','(6,3)','(4,6)','(7,6)','(10,8)','(11,8)']
-inputStringArray=['(3,8)','(8,3)']
-
-print(isValidBinaryTree(inputStringArray))
-
 
