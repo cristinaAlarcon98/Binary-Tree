@@ -10,14 +10,10 @@ You can find the Node.js package here: https://nodejs.org/en/
 
 To install Express write the next commands in the Terminal:
 
-Type the next commands
-
 $ npm install express --save
 $ npm install express
 
 To install Mocha (for the testing):
-
-Type the next command
 
 $ npm install --save-dev mocha
 
