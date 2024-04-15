@@ -1,8 +1,4 @@
-# Coding challenge
-Here you can find the answer to the proposed challenges. This answers are divided in two folders with the names "FirstChallenge" and "SecondChallenge". 
 
-
-To see the results of the second challenge you may follow the next steps:
 
 ## Setup Node.js,Express and Mocha
 
