@@ -9,7 +9,7 @@ To install Express write the next commands in the Terminal:
 $ npm install express --save
 $ npm install express
 
-To install Mocha (for the testing):
+To install Mocha:
 
 $ npm install --save-dev mocha
 
@@ -21,6 +21,5 @@ $ npm install --save-dev mocha
 5. Open your browser and type localhost:8080/lcm?params=20&params=15&params=5 (You can change the value of params to see different results)
 
 ## Test the application
-1. Access from the terminal to the folder with the following command cd <path> (if you are not there)
-2. Type in the Terminal $npm run test
+1. $npm run test
 
